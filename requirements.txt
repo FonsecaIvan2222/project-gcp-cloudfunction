@@ -1,0 +1,9 @@
+# requirements.txt
+# Lista de dependencias para la Cloud Function en Python
+
+# Framework de funciones para Cloud Functions de GCP
+functions-framework==3.2.0
+
+# Librería de logging de Google Cloud
+# Permite enviar logs detallados a Cloud Logging
+google-cloud-logging==3.10.0
